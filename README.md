@@ -61,8 +61,9 @@ Before running the script, make sure your VPS meets the following:
 ## 🛠️ How It Works
 Once you run the install command and confirm with y, the script takes over completely.
 ### 01 — Launch
-```bash
-bash <(curl -fsSL [https://raw.githubusercontent.com/shakibplayz/blueprint-install/main/install.sh](https://raw.githubusercontent.com/shakibplayz/blueprint-install/main/install.sh))
+```
+bash <(curl -fsSL https://raw.githubusercontent.com/shakibplayz/blueprint-install/main/install.sh)
+
 
 ```
 ### 02 — Confirm
@@ -80,10 +81,11 @@ The installer handles:
  * ✓ Continues into the addon installer to extend your setup further
 ### 04 — Done
 Finishes with a clean summary banner once everything is complete. No manual intervention is needed at any point after confirming the prompt.
-## 🖥️ Usage Example
-```bash
-$ bash <(curl -fsSL [https://raw.githubusercontent.com/shakibplayz/blueprint-install/main/install.sh](https://raw.githubusercontent.com/shakibplayz/blueprint-install/main/install.sh))
+## 🖥️ Usage
+```
+bash <(curl -fsSL https://raw.githubusercontent.com/shakibplayz/blueprint-install/main/install.sh)
 
+```
 ============================================================
                    shakibplayz Script
 ============================================================
