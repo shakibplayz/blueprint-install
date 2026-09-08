@@ -9,7 +9,7 @@ A fast, fully automated installer for **Blueprint Framework** on **Pterodactyl P
 Run this single command on your VPS:
 
 ```bash
-bash <(curl -fsSL https://raw.githubusercontent.com/atifqmi-max/blueprint-install/main/install.sh)
+bash <(curl -fsSL https://raw.githubusercontent.com/shakibplayz/blueprint-install/main/install.sh)
 ```
 
 That's it. No `git clone`, no extra setup — the script handles everything from start to finish.
@@ -70,7 +70,7 @@ No manual intervention is needed at any point after confirming the prompt.
 ## 🖥️ Usage Example
 
 ```bash
-$ bash <(curl -fsSL https://raw.githubusercontent.com/atifqmi-max/blueprint-install/main/install.sh)
+$ bash <(curl -fsSL https://raw.githubusercontent.com/shakibplayz/blueprint-install/main/install.sh)
 
 ============================================================
                    shakibplayz Script
