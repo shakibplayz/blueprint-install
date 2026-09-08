@@ -55,7 +55,29 @@ Before running the script, make sure your VPS meets the following:
 | **🔐 Access** | Root or sudo privileges |
 | **🌐 Network** | Active internet connection |
 > ⚠️ **Important:** If your Pterodactyl Panel isn't installed yet, install it first — this script only sets up Blueprint on top of an existing panel.
-> 
+## 🧩 Included Addons
+```01. huxregister
+02. loader
+03. mcplugins
+04. mctools
+05. minecraftpluginmanager
+06. serverbackgrounds
+07. simplefavicons
+08. startupchanger
+09. subdomains
+10. versionchanger
+
+```
+
+## 🎨 Themes
+```🌌 Nebula Theme
+
+Professional Blueprint panel theme support.
+Modern panel customization.
+Clean Pterodactyl interface experience.
+
+```
+
 ## 🛠️ How It Works
 Once you run the install command and confirm with y, the script takes over completely.
 ### 01 — Launch
