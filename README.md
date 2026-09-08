@@ -14,8 +14,8 @@ A fast, fully automated installer for <b>Blueprint Framework</b> on <b>Pterodact
 ## ⚡ Quick Install
 Run this single command on your VPS:
 
-```bash
-bash <(curl -fsSL (https://raw.githubusercontent.com/shakibplayz/blueprint-install/main/install.sh) 
+```
+bash <(curl -fsSL https://raw.githubusercontent.com/shakibplayz/blueprint-install/main/install.sh)
 
 ```
 
