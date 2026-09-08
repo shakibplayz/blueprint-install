@@ -13,17 +13,19 @@ A fast, fully automated installer for <b>Blueprint Framework</b> on <b>Pterodact
 </p>---
 ## ⚡ Quick Install
 Run this single command on your VPS:
+
 ```bash
-bash <(curl -fsSL [https://raw.githubusercontent.com/shakibplayz/blueprint-install/main/install.sh](https://raw.githubusercontent.com/shakibplayz/blueprint-install/main/install.sh))
+bash <(curl -fsSL [https://raw.githubusercontent.com/shakibplayz/blueprint-install/main/install.sh]
 
 ```
-> That's it. No git clone, no extra setup — the script handles everything from start to finish.
-> 
+
 ## 📖 Overview
 This script automates the entire process of installing **Blueprint Framework** onto an existing Pterodactyl Panel setup, along with the addon installer that follows it. It's built to save time, reduce human error, and give a clean, guided installation experience straight from your terminal.
 When you run the command above, you'll see a branded banner, a confirmation prompt, and then a fully automated installation flow — no further input required once you confirm.
-```text
-┌──────────────────────────────────────────────┐
+text
+
+
+```┌──────────────────────────────────────────────┐
 │        SHAKIBPLAYZ BLUEPRINT INSTALLER       │
 ├──────────────────────────────────────────────┤
 │                                              │
